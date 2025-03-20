@@ -1,5 +1,5 @@
 # CITC 1300 PROJECT PAGE
 
-<a href="Intro_to_html/index.html">Intro to HTML</a>
-
+<a href="Intro_to_html/index.html"target="_blank">Intro to HTML</a>
+<a href="HTML5_to_intro_CCS"target="_blank">HTML5 and CCS</a>
 
