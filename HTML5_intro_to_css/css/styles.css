@@ -1,19 +1,19 @@
 body {
-    background-color:rgba(44, 32, 155, 0.603) ;
+    background-color:rgba(72, 62, 156, 0.603) ;
 }
 
 #container {
     background-color: rgb(235, 233, 255);
     width: 1200px;
     margin: 20px auto;
-    border: 2px solid black;
+    border: 5px solid rgb(70, 37, 78);
     padding: 20px;
 }
 
 img {
-    display: block;
+    display:block;
     margin: 0 auto;
-    width: 800px;
+    width: 700px;
 }
 
 nav {
@@ -23,7 +23,7 @@ nav {
 
 nav a {
     font-size: 24px;
-    color: black;
+    color: rgb(33, 22, 95);
     margin: 0 20px;
     font-weight: bold;
 }
@@ -35,7 +35,9 @@ nav a:hover {
 h1, 
 h2, 
 h3, 
-h4, 
-footer {
+h4 {
     text-align: center;
+    font-size: 24px;
 }
+
+footer {text-align: center;}
