@@ -204,4 +204,12 @@ footer {
         font-size: 1.05rem;
         line-height: 1.6;
     }
+
+    .video-frame {
+        width: 90%;
+        max-width: 100%;
+        display: block;
+        margin: 0 auto;
+        border: none;
+    }
 }
